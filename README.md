@@ -16,7 +16,9 @@ Tools used: **SQL, Excel, Tableau**
 3. Creating Tableau dashboards for visualization
 
 ## 📷 Screenshots
-(Add images of your SQL queries, Excel sheets, or Tableau dashboards here)
+### Excel Sales Dashboard  
+![Excel Dashboard](Coustomer.webp)
+(Add images )
 
 ## 📌 Insights
 - Identified top 10 best-selling products
